@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:prasannakar/Kubernetes-Ansible-Docker-Project.git</connection>
-    <developerConnection>scm:git:git@github.com:prasannakar/Kubernetes-Ansible-Docker-Project.git</developerConnection>
+    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
+    <developerConnection>scm:git:gitgithub.com:jleetutorial/maven-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/prasannakar/Kubernetes-Ansible-Docker-Project.git</url>
+    <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
 
   <prerequisites>
